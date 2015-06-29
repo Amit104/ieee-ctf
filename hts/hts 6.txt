@@ -1,0 +1,1 @@
+here encryption takes place in such a way that each element is shifted as elememt + position where position starts from zero.so abc will become ace.we then just have to decrypt the encrypted code.

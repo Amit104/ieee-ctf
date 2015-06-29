@@ -1,0 +1,1 @@
+we can remove the hidden attribute which hides the box which holds the email and then put our email so that we get the password.

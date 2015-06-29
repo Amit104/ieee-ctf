@@ -1,0 +1,2 @@
+the passord is uploaded in a file named password and can be accesed as
+https://www.hackthissite.org/missions/basic/3/password.php

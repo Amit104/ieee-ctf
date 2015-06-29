@@ -1,0 +1,1 @@
+semicolon(;) can be used to separate two differnt commands and so we can enter some year say 2012;ls.This will give list of all files in dir including password file.
