@@ -1,0 +1,17 @@
+Ques 1:
+hill Cipher.
+Plain text written as matrix * key = cipher text
+Plain text = BLUE
+
+Ques 2:
+It takes 3 command line args.
+It takes the 3 numbers as co-efficients of a quadratic and gives output as
+1."You_have_found__an__answer._Find_the_logic_as_well" if delta==0
+2.roots of the quadratic equation if delta>0.
+3."Try harder" if delta<0.
+
+Ques 3:
+main calls sys.func() with 10(mov edi,0xa).
+sys.func() is a recursive function to calculate factorial. it calculates factorial of 10 .
+The answer is divided by the input we give and if it equals 86400  output is 'Success'.
+Therefore,  (10!)/input = 86400. =>input = 42
